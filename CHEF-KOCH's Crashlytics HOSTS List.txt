@@ -1,0 +1,60 @@
+# Title: CHEF-KOCH's Crashlytics HOSTS Filter List
+# Description: Kills all Crashlytics related connections. 
+# License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+# By downloading or viewing, or using this list, you are accepting these terms and the license.
+# Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+# Expires: 14d
+# Version: 0.0.0.3
+# Last updated: 2019-03-04
+# Please report any unblocked content or problems by email or via GitHub issue ticket.
+# Email: CHEF-KOCH@protonmail.com
+# Copyright (C) 2018 - 2019 by CHEF-KOCH
+#
+# AS14618 (Amazon.com, Inc)
+# AS16509 (Amazon.com, Inc)
+# AS15169 (Google LLC)
+#
+#0.0.0.0 ns-1226.awsdns-25.org
+#0.0.0.0 ns-1609.awsdns-09.co.uk
+#0.0.0.0 ns-279.awsdns-34.com
+#0.0.0.0 ns-968.awsdns-57.net
+0.0.0.0 169.54.33.155
+0.0.0.0 169.54.33.187
+0.0.0.0 169.54.33.191
+0.0.0.0 169.54.33.199
+0.0.0.0 174.129.19.57
+0.0.0.0 23.21.247.165
+0.0.0.0 23.23.121.187
+0.0.0.0 23.23.247.109 
+0.0.0.0 23.23.73.75
+0.0.0.0 50.19.100.56
+0.0.0.0 50.19.103.95
+0.0.0.0 50.19.225.136 
+0.0.0.0 50.19.81.148
+0.0.0.0 50.19.84.89
+0.0.0.0 50.19.86.47
+0.0.0.0 50.19.98.111
+0.0.0.0 54.235.102.208
+0.0.0.0 54.235.102.208
+0.0.0.0 54.235.112.70
+0.0.0.0 54.235.131.194
+0.0.0.0 54.235.168.33
+0.0.0.0 54.243.105.196
+0.0.0.0 54.243.187.10
+0.0.0.0 54.243.212.106
+0.0.0.0 api.crashlytics.com
+0.0.0.0 apps.crashlytics.com
+0.0.0.0 beta.crashlytics.com
+0.0.0.0 blog.crashlytics.com
+0.0.0.0 calendar.crashlytics.com
+0.0.0.0 crashlytics.com
+0.0.0.0 docs.crashlytics.com
+0.0.0.0 download.crashlytics.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 report.crashlytics.com
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 support.crashlytics.com
+0.0.0.0 try.crashlytics.com
+0.0.0.0 www.crashlytics.com
