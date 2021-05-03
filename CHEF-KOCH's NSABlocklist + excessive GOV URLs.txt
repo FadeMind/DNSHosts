@@ -1,4 +1,3 @@
-#
 # License:								MIT License (MIT)
 # File encoding: 						UTF-8 Dos/Windows 1252
 # Original maintainer:					CHEF-KOCH
